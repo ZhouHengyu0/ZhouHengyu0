@@ -3,6 +3,10 @@ introduction-myself
 
 Can use C#,PHP,vue... to code program
 
+GiteeUrl:https://gitee.com/xyns001
+
+My all project are pushing on gitee
+
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
 
