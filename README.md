@@ -12,13 +12,14 @@ My all projects pushed on gitee
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Vue.js                   42 mins             ████████████████████░░░░░   81.71 % 
+JavaScript               9 mins              █████░░░░░░░░░░░░░░░░░░░░   18.29 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  51 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  51 mins             █████████████████████████   100.00 % 
 ```
 
 
