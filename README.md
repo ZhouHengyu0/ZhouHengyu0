@@ -1,7 +1,7 @@
 # XYNS
 introduction-myself
 
-Can use C#,PHP,vue... to code program
+Can use JAVA,C#,PHP,vue... to code program
 
 GiteeUrl:https://gitee.com/xyns001
 
