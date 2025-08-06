@@ -12,14 +12,13 @@ My all projects pushed on gitee
 
 ```text
 💬 Programming Languages: 
-Java                     1 min               ████████████████░░░░░░░░░   63.92 % 
-XML                      1 min               █████████░░░░░░░░░░░░░░░░   36.08 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ IDEA            3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
