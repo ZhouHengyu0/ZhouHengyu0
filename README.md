@@ -12,15 +12,13 @@ My all projects pushed on gitee
 
 ```text
 💬 Programming Languages: 
-Java                     0 secs              ██████████████████░░░░░░░   73.78 % 
-YAML                     0 secs              ███████░░░░░░░░░░░░░░░░░░   26.11 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ IDEA            0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
