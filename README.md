@@ -12,18 +12,17 @@ My all projects pushed on gitee
 
 ```text
 💬 Programming Languages: 
-Java                     48 mins             ███████████░░░░░░░░░░░░░░   43.84 % 
-Vue.js                   22 mins             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-XML                      17 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
-JavaScript               13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
-SQL                      9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
+Java                     6 mins              ██████████████████░░░░░░░   72.14 % 
+Vue.js                   1 min               ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
+SQL                      0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+JavaScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
 
 🔥 Editors: 
-IntelliJ IDEA            1 hr 6 mins         ███████████████░░░░░░░░░░   59.39 % 
-VS Code                  45 mins             ██████████░░░░░░░░░░░░░░░   40.61 % 
+IntelliJ IDEA            6 mins              ██████████████████░░░░░░░   72.14 % 
+VS Code                  2 mins              ███████░░░░░░░░░░░░░░░░░░   27.86 % 
 
 💻 Operating System: 
-Windows                  1 hr 51 mins        █████████████████████████   100.00 % 
+Windows                  9 mins              █████████████████████████   100.00 % 
 ```
 
 
