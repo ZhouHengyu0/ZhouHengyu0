@@ -12,13 +12,19 @@ My all projects pushed on gitee
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+YAML                     1 hr 21 mins        ██████████████░░░░░░░░░░░   57.56 % 
+Vue.js                   24 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
+JSON                     19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
+JavaScript               14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
+Java                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ IDEA            1 hr 22 mins        ███████████████░░░░░░░░░░   58.79 % 
+HbuilderX                45 mins             ████████░░░░░░░░░░░░░░░░░   32.53 % 
+VS Code                  12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 hrs 21 mins       █████████████████████████   100.00 % 
 ```
 
 
