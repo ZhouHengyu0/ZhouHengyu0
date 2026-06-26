@@ -12,13 +12,13 @@ My all projects pushed on gitee
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   18 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  18 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  18 mins             █████████████████████████   100.00 % 
 ```
 
 
