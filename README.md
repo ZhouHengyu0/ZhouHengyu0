@@ -12,13 +12,14 @@ My all projects pushed on gitee
 
 ```text
 💬 Programming Languages: 
-Python                   21 mins             █████████████████████████   100.00 % 
+Python                   21 mins             ███████████████████░░░░░░   76.15 % 
+JSON                     6 mins              ██████░░░░░░░░░░░░░░░░░░░   23.85 % 
 
 🔥 Editors: 
-VS Code                  21 mins             █████████████████████████   100.00 % 
+VS Code                  27 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  21 mins             █████████████████████████   100.00 % 
+Windows                  27 mins             █████████████████████████   100.00 % 
 ```
 
 
