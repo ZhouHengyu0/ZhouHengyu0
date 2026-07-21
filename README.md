@@ -12,14 +12,13 @@ My all projects pushed on gitee
 
 ```text
 💬 Programming Languages: 
-JSON                     7 mins              ████████████████░░░░░░░░░   62.59 % 
-Vue                      4 mins              █████████░░░░░░░░░░░░░░░░   37.41 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-HbuilderX                11 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  11 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
