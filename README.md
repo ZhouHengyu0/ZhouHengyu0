@@ -14,18 +14,18 @@ My all projects pushed on gitee
 
 ```text
 💬 Programming Languages: 
-Java                     50 mins             █████████████░░░░░░░░░░░░   51.45 % 
-Vue                      14 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
-JavaScript               12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
-JSON                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
-SQL                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
+Java                     50 mins             ██████████████░░░░░░░░░░░   57.23 % 
+Vue                      14 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
+JavaScript               12 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
+XML                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
+SQL                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
 
 🔥 Editors: 
-IntelliJ IDEA            58 mins             ███████████████░░░░░░░░░░   59.32 % 
-VS Code                  39 mins             ██████████░░░░░░░░░░░░░░░   40.68 % 
+IntelliJ IDEA            55 mins             ████████████████░░░░░░░░░   62.95 % 
+VS Code                  32 mins             █████████░░░░░░░░░░░░░░░░   37.05 % 
 
 💻 Operating System: 
-Windows                  1 hr 38 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 27 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
