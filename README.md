@@ -14,14 +14,10 @@ My all projects pushed on gitee
 
 ```text
 💬 Programming Languages: 
-Java                     0 secs              ███████████████████░░░░░░   76.31 % 
-JavaScript               0 secs              █████░░░░░░░░░░░░░░░░░░░░   18.20 % 
-XML                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
+JavaScript               0 secs              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-IntelliJ IDEA            0 secs              ████████████████████░░░░░   81.80 % 
-HbuilderX                0 secs              █████░░░░░░░░░░░░░░░░░░░░   18.20 % 
+HbuilderX                0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
 Windows                  0 secs              █████████████████████████   100.00 % 
