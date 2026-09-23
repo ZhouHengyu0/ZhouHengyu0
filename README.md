@@ -14,13 +14,15 @@ My all projects pushed on gitee
 
 ```text
 💬 Programming Languages: 
-JavaScript               0 secs              █████████████████████████   100.00 % 
+HTML                     25 mins             █████████████████████████   99.95 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🔥 Editors: 
-HbuilderX                0 secs              █████████████████████████   100.00 % 
+VS Code                  25 mins             █████████████████████████   99.95 % 
+HbuilderX                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.00 % 
+Windows                  25 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
