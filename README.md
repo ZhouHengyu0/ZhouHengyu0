@@ -21,7 +21,7 @@ JavaScript               7 mins              ██░░░░░░░░░�
 Python                   5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
 
 🔥 Editors: 
-IntelliJ IDEA            49 mins             ███████████████░░░░░░░░░░   60.38 % 
+IntelliJ IDEA            49 mins             ███████████████░░░░░░░░░░   60.39 % 
 VS Code                  25 mins             ████████░░░░░░░░░░░░░░░░░   30.93 % 
 HbuilderX                7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
 
