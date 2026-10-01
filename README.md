@@ -14,15 +14,15 @@ My all projects pushed on gitee
 
 ```text
 💬 Programming Languages: 
-YAML                     28 mins             █████████████░░░░░░░░░░░░   51.10 % 
-Java                     14 mins             ███████░░░░░░░░░░░░░░░░░░   26.01 % 
-JavaScript               7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
-Python                   5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
+YAML                     28 mins             █████████████░░░░░░░░░░░░   51.05 % 
+Java                     14 mins             ███████░░░░░░░░░░░░░░░░░░   26.07 % 
+JavaScript               7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
+Python                   5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
 textmate                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 🔥 Editors: 
-IntelliJ IDEA            49 mins             ██████████████████████░░░   87.43 % 
-HbuilderX                7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
+IntelliJ IDEA            49 mins             ██████████████████████░░░   87.44 % 
+HbuilderX                7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
 
 💻 Operating System: 
 Windows                  56 mins             █████████████████████████   100.00 % 
