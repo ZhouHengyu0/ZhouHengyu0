@@ -14,15 +14,13 @@ My all projects pushed on gitee
 
 ```text
 💬 Programming Languages: 
-Vue                      10 mins             ██████████████████████░░░   87.64 % 
-YAML                     1 min               ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
+YAML                     5 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-HbuilderX                10 mins             ██████████████████████░░░   87.64 % 
-IntelliJ IDEA            1 min               ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
+IntelliJ IDEA            5 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  11 mins             █████████████████████████   100.00 % 
+Windows                  5 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
